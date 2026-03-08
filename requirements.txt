@@ -1,0 +1,9 @@
+
+ipykernel
+numpy
+pandas
+seaborn
+scikit-learn
+torch
+torchvision
+jupyter
